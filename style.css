@@ -39,3 +39,10 @@ p{
     max-width: 650px;
     margin: 0 auto;
 }
+blockquote {
+  border-left: 4px solid #888;
+  padding-left: 1em;
+  margin: 1em 0;
+  font-style: italic;
+  background-color: #f9f9f9;
+}
