@@ -1,0 +1,41 @@
+/* Styling for all elements */
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-top: 0;
+}
+
+/* Styling for the body */
+body {
+  margin: 0;
+  font-family: Arial,sans-serif;
+}
+
+/* Styling for the <p> tag */ 
+p{
+  text-align: center;
+}
+
+/* Styling for the header */ 
+#header {
+    background: #cccccc;
+}
+ 
+/* Styling for the main */ 
+#main {
+    background: #dddddd;    
+}
+
+/* Styling for the wrap */ 
+.wrap {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1em;
+}
+ 
+/* Styling for the primary */ 
+#primary {
+    max-width: 650px;
+    margin: 0 auto;
+}
