@@ -16,6 +16,9 @@ body {
 p{
   text-align: center;
 }
+title{
+  text-align: center;
+}
 
 /* Styling for the header */ 
 #header {
